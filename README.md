@@ -6,8 +6,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<br />
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Benson Idahosa University.
+<br />
 - 💼 &nbsp; Currently Looking For A Remote Job.
+<br />
 - 🌱 &nbsp; Learning more about Data Structures, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
