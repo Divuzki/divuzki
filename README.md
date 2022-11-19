@@ -19,7 +19,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=276DC3)
   
-  - 📱 &nbsp;
+- 📱 &nbsp;
   ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
