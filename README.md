@@ -16,8 +16,11 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python (Statistics)](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=276DC3)
+  
+  - 📱 &nbsp;
+  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=Graphql)
