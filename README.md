@@ -54,5 +54,6 @@
 
 <a href="https://github.com/divuzki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divuzki&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divuzki&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divuzki&theme=buefy&layout=compact&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divuzki&theme=buefy&show_icons=true" />
 </a>
