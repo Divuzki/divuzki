@@ -17,7 +17,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=276DC3)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
 - 📱 &nbsp;
   ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
@@ -27,19 +27,19 @@
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=007396)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=Sass)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![ReactJs](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
-  ![Snowpack](https://img.shields.io/badge/-Snowpack-333333?style=flat&logo=Snowpack)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![postgresql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
