@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on studyradar.ai<br>👯 I’m looking to collaborate on revenue-driven projects<br>🤝 I’m looking for help with getting impactful remote jobs<br>🎓   Studied Computer Science at the University of Benson Idahosa<br>🌱 I’m currently learning more about Machine Learning<br>💬 Ask me about anything software<br>⚡ Fun fact: I founded Trayfoods, a food delivery startup, in 2023, and I am also into music distribution<br>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heisdivuzki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divuzki) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@heisdivuzki) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divuzki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divuzki@gmail.com) 
@@ -11,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=divuzki&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=divuzki&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divuzki&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=divuzki&icon=10&color=13)](https://visitcount.itsvg.in)
